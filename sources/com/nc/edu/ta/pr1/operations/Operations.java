@@ -1,0 +1,20 @@
+package sources.com.nc.edu.ta.pr1.operations;
+
+public class Operations {
+    /**
+     * Create new operation using two numbers.
+     *
+* @param x first operand * @param y second operand
+*/
+public Operation(int x, int y) {
+    this.x = x;
+this.y = y; }
+/**
+ * @return result of operation
+ */
+public int getResult() {
+   return x * y;
+}
+    private int x;
+    private int y;
+}
