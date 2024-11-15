@@ -1,6 +1,6 @@
 package sources.com.nc.edu.ta.pr1.operations;
 
-public class Operations {
+public class Operation {
     /**
      * Create new operation using two numbers.
      *
